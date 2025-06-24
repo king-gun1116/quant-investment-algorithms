@@ -16,13 +16,13 @@
 
 | 번호 | 제목 | 설명 |
 |------|------|------|
-| [1️⃣ 데이터 수집](notebooks/1_data_collection.ipynb) | FinanceDataReader, DART API 기반 수집 |
-| [2️⃣ Feature Importance 분석](notebooks/2_feature_importance.ipynb) | 주요 변수의 중요도 분석 및 시각화 |
-| [3️⃣ 팩터 기반 베이스라인](notebooks/3_factor_baseline_model.ipynb) | 5대 팩터를 활용한 회귀 모델 |
-| [4️⃣ 모멘텀 모델링](notebooks/4_momentum_modeling.ipynb) | 트렌드 기반 투자 전략 설계 |
-| [5️⃣ 머신러닝 팩터 모델](notebooks/5_factor_modeling_LGBM.ipynb) | LightGBM 회귀로 수익률 예측 |
-| [6️⃣ 전통 퀀트 스코어링](notebooks/6_quant_scoring_model.ipynb) | 팩터 합산 점수 기반 전략 |
-| [7️⃣ 듀얼 모델 (알파 & 리스크)](notebooks/7_dual_classifier_alpha_risk.ipynb) | 수익률 예측 + 리스크 분리 이진 분류기 활용 |
+| [1️⃣ 데이터 수집] | FinanceDataReader, DART API 기반 수집 |
+| [2️⃣ Feature Importance 분석] | 주요 변수의 중요도 분석 및 시각화 |
+| [3️⃣ 팩터 기반 베이스라인] | 5대 팩터를 활용한 회귀 모델 |
+| [4️⃣ 모멘텀 모델링] | 트렌드 기반 투자 전략 설계 |
+| [5️⃣ 머신러닝 팩터 모델] | LightGBM 회귀로 수익률 예측 |
+| [6️⃣ 전통 퀀트 스코어링] | 팩터 합산 점수 기반 전략 |
+| [7️⃣ 듀얼 모델 (알파 & 리스크)] | 수익률 예측 + 리스크 분리 이진 분류기 활용 |
 
 ---
 
